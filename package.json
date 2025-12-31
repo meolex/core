@@ -1,0 +1,20 @@
+{
+  "name": "@meolex/core",
+  "version": "1.0.0",
+  "description": "Core utilities and shared setup",
+  "author": "meolex",
+  "license": "ISC",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "prettier": "3.7.4"
+  },
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^6.0.0"
+  },
+  "exports": {
+    "./prettier": "./src/prettier.config.mjs"
+  }
+}
