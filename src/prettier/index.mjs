@@ -1,4 +1,4 @@
-import frontend from "./frontend.mjs";
-import backend from "./backend.mjs";
+import frontend from "./fe.config.mjs";
+import backend from "./be.config.mjs";
 
 export { frontend, backend };
