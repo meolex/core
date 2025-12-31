@@ -1,0 +1,12 @@
+.github
+node_modules/
+dist/
+build/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.env
+.DS_Store
+.vscode/
+.idea/
+.log/
