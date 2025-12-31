@@ -16,5 +16,9 @@
   },
   "exports": {
     "./prettier": "./src/prettier.config.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meolex/core"
   }
 }
