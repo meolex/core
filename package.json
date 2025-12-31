@@ -21,8 +21,8 @@
     }
   },
   "exports": {
-    "./prettier-fe": "./prettier/fe.config.mjs",
-    "./prettier-be": "./prettier/be.config.mjs"
+    "./prettier/fe": "./prettier/fe.config.mjs",
+    "./prettier/be": "./prettier/be.config.mjs"
   },
   "repository": {
     "type": "git",

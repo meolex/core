@@ -19,6 +19,9 @@ export default {
     "^../(.*)",
     "^./(.*)",
   ],
-  plugins: ["@trivago/prettier-plugin-sort-imports"],
+  plugins: [
+    "@trivago/prettier-plugin-sort-imports",
+    "prettier-plugin-import-sort",
+  ],
   printWidth: 140,
 };
